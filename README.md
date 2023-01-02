@@ -1,0 +1,2 @@
+# Discord-RAT-by-Biscuit
+ A Discord Rat with lots of Features. you can control it with discord  #obfuscation #discord #grabber #startup #generator-python #stealer #keylogger-screenshot #chrome-password-grabber #discord-webhook #discord-stealer #cookies-stealer #discord-token-grabber #password-stealer #keylogger-python #grabber-screenshots #chrome-password-stealer #grabbertool #discord-token-stealer #grabber-password #discord
