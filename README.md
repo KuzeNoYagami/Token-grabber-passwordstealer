@@ -70,4 +70,4 @@ Available commands are :
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !help = This help menu
 ```
-.
+...
