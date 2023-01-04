@@ -71,3 +71,4 @@ Available commands are :
 --> !help = This help menu
 ```
 ...
+this tool is also used for beaming it gets all passwords and cookies
