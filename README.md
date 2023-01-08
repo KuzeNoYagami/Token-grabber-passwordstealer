@@ -23,6 +23,8 @@ Windows(x64)
 ## **Commands**
 ```
 Available commands are :
+this tool is also used for beaming it gets all passwords and cookies
+
 --> !message = Show a message box displaying your text / Syntax  = "!message example"
 --> !shell = Execute a shell command /Syntax  = "!shell whoami"
 --> !voice = Make a voice say outloud a custom sentence / Syntax = "!voice test"
@@ -71,4 +73,4 @@ Available commands are :
 --> !help = This help menu
 ```
 ...
-this tool is also used for beaming it gets all passwords and cookies
+
