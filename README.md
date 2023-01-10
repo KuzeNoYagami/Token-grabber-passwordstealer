@@ -1,6 +1,6 @@
 # Token-grabber-passwordstealer
 > Default:
-
+```
 - Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
 - Steal Chrome Passwords / Cookies / History
 - Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
@@ -32,3 +32,4 @@
 - New PayPal
 - Anti Delete system (re install after Discord uninstall / Discord Update)
 > + More!
+```
